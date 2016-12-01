@@ -11,24 +11,24 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 
 ### Open Source Modules
 
-|Id|Functionality|Modality|Language|Github|Dockerhub|
+|Id|Functionality|Modality|Language|Source|Download|
 |---|---|---|---|---|---|
-|m1|Sentiment Extraction|Text|EN|Docker image| |
-|m2|Sentiment Extraction|Text|EN, CS|Docker image| |
-|m4|Sentiment Extraction|Text|EN, ES|Docker image| |
-|m5|Emotion recognition|Text|EN|Docker image| |
-|m6|Emotion recognition|Audio|EN|Docker image| |
-|m7|Emotion recognition|Text|EN, ES, Multiple|Docker image| |
-|m8|Entity Extraction|Text|ES|Docker image| |
-|m10|Entity Extraction and Linking|Text|EN|Docker image| |
-|m13|Topic Extraction|Text|ES|Docker image| |
-|m16|Suggestion mining|Text|EN|Docker image| |
-|m20|Twitter media crawler|Text|n/a|Github source| |
-|m21|Fusion|Text/Audio/Video|n/a|Docker image| |
-|m22|Social Network Analysis|graph|n/a|Docker image| |
-|m25|Social semantic Knowledge graph|graph|n/a|Docker Image| |
+|m1|Sentiment Extraction|Text|EN|[github]| [Dockerhub]|
+|m2|Sentiment Extraction|Text|EN, CS|[github]|[Dockerhub]|
+|m4|Sentiment Extraction|Text|EN, ES|[github]|[Dockerhub]|
+|m5|Emotion recognition|Text|EN|[github]|[Dockerhub]|
+|m6|Emotion recognition|Audio|EN|[github]|[Dockerhub]|
+|m7|Emotion recognition|Text|EN, ES, Multiple|[github]|[Dockerhub]|
+|m8|Entity Extraction|Text|ES|[github]|[Dockerhub] |
+|m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub] |
+|m13|Topic Extraction|Text|ES|[github]|[Dockerhub] |
+|m16|Suggestion mining|Text|EN|[github]|[Dockerhub] |
+|m20|Twitter media crawler|Text|n/a|[github]|[Dockerhub] |
+|m21|Fusion|Text/Audio/Video|n/a|[github]|[Dockerhub] |
+|m22|Social Network Analysis|graph|n/a|[github]|[Dockerhub] |
+|m25|Social semantic Knowledge graph|graph|n/a|[github]|[Dockerhub] |
 |m28|Analytics module “Kibi”|-|-|Standalone,| Github source| |
-|m32|Youtube crawler|Text/Video|n/a|Docker image| |
+|m32|Youtube crawler|Text/Video|n/a|[github]|n/a|
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox.
 
