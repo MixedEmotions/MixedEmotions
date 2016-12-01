@@ -30,7 +30,7 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 |m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
 |m32|Youtube crawler|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
 
-Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox.
+Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox. You can find it [here](https://github.com/MixedEmotions/orchestrator).
 
 ### Proprietary Modules
 
