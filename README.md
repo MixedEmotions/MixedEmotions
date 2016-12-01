@@ -14,21 +14,21 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 |Id|Functionality|Modality|Language|Source|Download|
 |---|---|---|---|---|---|
 |m1|Sentiment Extraction|Text|EN|[github]| [Dockerhub]|
-|m2|Sentiment Extraction|Text|EN, CS|[github]|[Dockerhub]|
-|m4|Sentiment Extraction|Text|EN, ES|[github]|[Dockerhub]|
+|m2|Sentiment Extraction|Text|EN, CS|[github](https://github.com/MixedEmotions/but_sentiment)|[Dockerhub]|
+|m4|Sentiment Extraction|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub]|
 |m5|Emotion recognition|Text|EN|[github]|[Dockerhub]|
-|m6|Emotion recognition|Audio|EN|[github]|[Dockerhub]|
-|m7|Emotion recognition|Text|EN, ES, Multiple|[github]|[Dockerhub]|
-|m8|Entity Extraction|Text|ES|[github]|[Dockerhub] |
-|m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub] |
-|m13|Topic Extraction|Text|ES|[github]|[Dockerhub] |
+|m6|Emotion recognition|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)|
+|m7|Emotion recognition|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub]|
+|m8|Entity Extraction|Text|ES|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
+|m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
+|m13|Topic Extraction|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
 |m16|Suggestion mining|Text|EN|[github]|[Dockerhub] |
-|m20|Twitter media crawler|Text|n/a|[github]|[Dockerhub] |
+|m20|Twitter media crawler|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|[Dockerhub] |
 |m21|Fusion|Text/Audio/Video|n/a|[github]|[Dockerhub] |
-|m22|Social Network Analysis|graph|n/a|[github]|[Dockerhub] |
+|m22|Social Network Analysis|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub] |
 |m25|Social semantic Knowledge graph|graph|n/a|[github]|[Dockerhub] |
-|m28|Analytics module “Kibi”|-|-|Standalone,| Github source| |
-|m32|Youtube crawler|Text/Video|n/a|[github]|n/a|
+|m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
+|m32|Youtube crawler|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox.
 
