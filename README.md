@@ -32,22 +32,22 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox.
 
-### Private Modules
+### Proprietary Modules
 
-|Id|Functionality|Modality|Language|Wiki|
-|---|---|---|---|---|
-|m3|Sentiment Extraction|Text|EN, IT|wiki|
-|m9|Entity Extraction|Text|IT, EN|Service|
-|m11|Topic Extraction|Text|IT, EN|Service|
-|m12|Topic Extraction|Text|EN|Service|
-|m15|Entity Linking|Text|IT, EN|Service|
-|m17|Speech to text|Audio|EN|Service|
-|m18|Machine translation|Text|CS, ES, DE, IT|Service |
-|m23|Emotion recognition|Audio|DE, EN, CS|Service|
-|m24|Recommendation engine|Text|EN|Service|
-|m27|Video Emotion recognition|Video|n/a|Service|
-|m29|Age estimation from audio|Audio|-|Service|
-|m30|Gender identification from audio|Audio|-|Service|
+|Id|Functionality|Modality|Language|Proprietary|More info|
+|---|---|---|---|---|---|
+|m3|Sentiment Extraction|Text|EN, IT|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m3-Sentiment-Extraction-by-ExpertSystem)|
+|m9|Entity Extraction|Text|IT, EN|ExpertSystem|[+info]|
+|m11|Topic Extraction|Text|IT, EN|ExpertSystem|[+info]|
+|m12|Topic Extraction|Text|EN|NUIG|[+info]|
+|m15|Entity Linking|Text|IT, EN|ExpertSystem|[+info]|
+|m17|Speech to text|Audio|EN|Phonexia|[+info]|
+|m18|Machine translation|Text|CS, ES, DE, IT|NUIG|[+info]|
+|m23|Emotion recognition|Audio|DE, EN, CS|Phonexia|[+info]|
+|m24|Recommendation engine|Text|EN|ExpertSystem|[+info]|
+|m27|Video Emotion recognition|Video|n/a|BUT|[+info]|
+|m29|Age estimation from audio|Audio|n/a|Phonexia|[+info]|
+|m30|Gender identification from audio|Audio|n/a|Phonexia|[+info]|
 
 
 ## Partners
