@@ -67,7 +67,7 @@ Additionally an open source orchestrator has been developed as an starting point
 
 This development has been  funded by the European Union through the MixedEmotions Project (project number H2020 655632), as part of the `RIA ICT 15 Big data and Open Data Innovation and take-up` programme.
 
-![MixedEmotions](img/me.png) 
+![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png) 
 
 ![EU](img/eu-flag.jpg)
 
