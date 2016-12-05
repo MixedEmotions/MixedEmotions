@@ -61,6 +61,19 @@ Additionally an open source orchestrator has been developed as an starting point
 
 ## Partners
 
+| Partner | Country|
+|---|---|
+|NATIONAL UNIVERSITY OF
+IRELAND, GALWAY| Ireland |
+|UNIVERSIDAD POLITECNICA DE MADRID|Spain |
+|UNIVERSITAT PASSAU | Germany |
+|EXPERT SYSTEM S.P.A. | Italy |
+|PARADIGMA TECNOLOGICO SL | Spain |
+| VYSOKE UCENI TECHNICKE V BRNE |Czech Republic|
+| SINDICE LIMITED | Ireland |
+| DEUTSCHE WELLE | Germany |
+| PHONEXIA SRO |Czech Republic|
+
 
 
 ## Acknowledgement
