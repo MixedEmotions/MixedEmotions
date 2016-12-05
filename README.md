@@ -69,6 +69,6 @@ This development has been  funded by the European Union through the MixedEmotion
 
 ![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png) 
 
-![EU](img/eu-flag.jpg)
+![EU](img/H2020-Web.png)
 
  http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/index.html
