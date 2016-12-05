@@ -9,6 +9,12 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 
 ## Modules
 
+The MixedEmotions platform has been developed with several modules in it. Those modules provide diverse functionalities. Mainly, the toolbox is focused on extracting emoitions from different modalities: text, audio and video. However it also provides other kind of functionalities such as Social Network analysis, Knowledge graphs, entity linking and many others.
+
+Some functionalities are provided with open source modules. Others are provided with proprietary modules.
+
+The list of modules can be found in these tables below, with links pointing to resources where you can have more information about them.
+
 ### Open Source Modules
 
 |Id|Functionality|Modality|Language|Source|Download|
@@ -23,7 +29,7 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 |m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
 |m13|Topic Extraction|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
 |m16|Suggestion mining|Text|EN|[github]|[Dockerhub] |
-|m20|Twitter media crawler|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|[Dockerhub] |
+|m20|Twitter media crawler|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
 |m21|Fusion|Text/Audio/Video|n/a|[github]|[Dockerhub] |
 |m22|Social Network Analysis|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub] |
 |m25|Social semantic Knowledge graph|graph|n/a|[github]|[Dockerhub] |
@@ -37,17 +43,17 @@ Additionally an open source orchestrator has been developed as an starting point
 |Id|Functionality|Modality|Language|Proprietary|More info|
 |---|---|---|---|---|---|
 |m3|Sentiment Extraction|Text|EN, IT|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m3-Sentiment-Extraction-by-ExpertSystem)|
-|m9|Entity Extraction|Text|IT, EN|ExpertSystem|[+info]|
-|m11|Topic Extraction|Text|IT, EN|ExpertSystem|[+info]|
-|m12|Topic Extraction|Text|EN|NUIG|[+info]|
-|m15|Entity Linking|Text|IT, EN|ExpertSystem|[+info]|
-|m17|Speech to text|Audio|EN|Phonexia|[+info]|
-|m18|Machine translation|Text|CS, ES, DE, IT|NUIG|[+info]|
-|m23|Emotion recognition|Audio|DE, EN, CS|Phonexia|[+info]|
-|m24|Recommendation engine|Text|EN|ExpertSystem|[+info]|
-|m27|Video Emotion recognition|Video|n/a|BUT|[+info]|
-|m29|Age estimation from audio|Audio|n/a|Phonexia|[+info]|
-|m30|Gender identification from audio|Audio|n/a|Phonexia|[+info]|
+|m9|Entity Extraction|Text|IT, EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m9.-Italian-and-English-Entity-Extraction-by-ExpertSystem)|
+|m11|Topic Extraction|Text|IT, EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m11.-Italian-and-English-Topic-Extraction-by-ExpertSystem)|
+|m12|Topic Extraction|Text|EN|NUIG|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m12.-External-English-Topic-Extraction-by-NUIG)|
+|m15|Entity Linking|Text|IT, EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m15.-External-Italian-and-English-Entity-Linking-by-ExpertSystem)|
+|m17|Speech to text|Audio|EN|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m17.-Speech-to-text-by-Phonexia)|
+|m18|Machine translation|Text|CS, ES, DE, IT|NUIG|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m18.-Machine-translation-by-NUIG)|
+|m23|Emotion recognition|Audio|DE, EN, CS|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m23.-Audio-Emotion-extraction-by-Phonexia)|
+|m24|Recommendation engine|Text|EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m24.-Recommendation-engine-by-ExpertSystem)|
+|m27|Video Emotion recognition|Video|n/a|BUT|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
+|m28|Age estimation from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m28.-Age-estimation-from-audio-by-Phonexia)|
+|m29|Gender identification from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m29.-Gender-identification-from-audio-by-Phonexia)|
 
 
 ## Partners
