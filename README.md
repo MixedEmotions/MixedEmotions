@@ -63,8 +63,7 @@ Additionally an open source orchestrator has been developed as an starting point
 
 | Partner | Country|
 |---|---|
-|NATIONAL UNIVERSITY OF
-IRELAND, GALWAY| Ireland |
+|NATIONAL UNIVERSITY OF IRELAND, GALWAY| Ireland |
 |UNIVERSIDAD POLITECNICA DE MADRID|Spain |
 |UNIVERSITAT PASSAU | Germany |
 |EXPERT SYSTEM S.P.A. | Italy |
