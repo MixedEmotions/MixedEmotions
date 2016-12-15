@@ -2,10 +2,11 @@
 
 ![MixedEmotions](img/me.png)
 
-
-The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal emotion analysis. It can extract emotions from text, audio and video. However, it also has many other capabilities, such as sentiment analysis, social network analysis and knowledge graphs visualization among others.
+The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal emotion analysis. It is built around stand alone docker modules with an orchestrator that links the modules into analysis workflows utilising MESOS for scalable cloud deployment. Core capabilities include emotion extraction from text, audio and video with many other capabilities, such as sentiment analysis, social network analysis, entity detection and linking and sophisticated data visualisation.
 
 ## Contact
+
+info@mixedemotions-project.eu
 
 ## Modules
 
