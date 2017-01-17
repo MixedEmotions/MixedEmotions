@@ -29,7 +29,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m8|Entity Extraction|Text|ES|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
 |m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
 |m13|Topic Extraction|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
-|m16|Suggestion mining|Text|EN|[github]|[Dockerhub] |
+|m16|Suggestion mining|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)|[Dockerhub](https://hub.docker.com/r/sapnanegi/16_suggestion_mining_nuig/) |
 |m20|Twitter media crawler|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
 |m21|Fusion|Text/Audio/Video|n/a|[github]|[Dockerhub] |
 |m22|Social Network Analysis|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub] |
