@@ -56,6 +56,9 @@ The list of modules can be found in these tables below, with links pointing to r
 |m28|Age estimation from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m28.-Age-estimation-from-audio-by-Phonexia)|
 |m29|Gender identification from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m29.-Gender-identification-from-audio-by-Phonexia)|
 
+### Custom Module
+You can use your REST service or your own Docker module within the platform. For how to use a Docker module within the platform check the [wiki](https://github.com/MixedEmotions/MixedEmotions/wiki/Using-your-own-Docker-Module)
+
 ### Orchestrator
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox. You can find it [here](https://github.com/MixedEmotions/orchestrator).
