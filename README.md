@@ -71,7 +71,7 @@ Additionally an open source orchestrator has been developed as an starting point
 |UNIVERSIDAD POLITECNICA DE MADRID|Spain |
 |UNIVERSITAT PASSAU | Germany |
 |EXPERT SYSTEM S.P.A. | Italy |
-|PARADIGMA TECNOLOGICO SL | Spain |
+|PARADIGMA DIGITAL SL | Spain |
 | VYSOKE UCENI TECHNICKE V BRNE |Czech Republic|
 | SINDICE LIMITED | Ireland |
 | DEUTSCHE WELLE | Germany |
