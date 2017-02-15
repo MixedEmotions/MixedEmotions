@@ -24,7 +24,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m2|Sentiment Extraction|Text|EN, CS|[github](https://github.com/MixedEmotions/but_sentiment)|[Dockerhub]|
 |m4|Sentiment Extraction|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m5|Emotion recognition|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/05_emotion_hashtags_nuig/)|
-https://hub.docker.com/r/mixedemotions/senpy/|m6|Emotion recognition|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)|
+|m6|Emotion recognition|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)|
 |m7|Emotion recognition|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m8|Entity Extraction|Text|ES|[github](https://github.com/MixedEmotions/08_entity_extraction_es)|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
 |m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
