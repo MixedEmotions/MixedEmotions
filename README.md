@@ -2,10 +2,11 @@
 
 ![MixedEmotions](img/me.png)
 
-
-The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal emotion analysis. It can extract emotions from text, audio and video. However, it also has many other capabilities, such as sentiment analysis, social network analysis and knowledge graphs visualization among others.
+The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal emotion analysis. It is built around stand alone docker modules with an orchestrator that links the modules into analysis workflows utilising MESOS for scalable cloud deployment. Core capabilities include emotion extraction from text, audio and video with many other capabilities, such as sentiment analysis, social network analysis, entity detection and linking and sophisticated data visualisation.
 
 ## Contact
+
+info@mixedemotions-project.eu
 
 ## Modules
 
@@ -21,17 +22,17 @@ The list of modules can be found in these tables below, with links pointing to r
 |---|---|---|---|---|---|
 |m1|Sentiment Extraction|Text|EN|[github]| [Dockerhub]|
 |m2|Sentiment Extraction|Text|EN, CS|[github](https://github.com/MixedEmotions/but_sentiment)|[Dockerhub]|
-|m4|Sentiment Extraction|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub]|
-|m5|Emotion recognition|Text|EN|[github]|[Dockerhub]|
+|m4|Sentiment Extraction|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
+|m5|Emotion recognition|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/05_emotion_hashtags_nuig/)|
 |m6|Emotion recognition|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)|
-|m7|Emotion recognition|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub]|
-|m8|Entity Extraction|Text|ES|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
+|m7|Emotion recognition|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
+|m8|Entity Extraction|Text|ES|[github](https://github.com/MixedEmotions/08_entity_extraction_es)|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
 |m10|Entity Extraction and Linking|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
 |m13|Topic Extraction|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
-|m16|Suggestion mining|Text|EN|[github]|[Dockerhub] |
+|m16|Suggestion mining|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)|[Dockerhub](https://hub.docker.com/r/sapnanegi/16_suggestion_mining_nuig/) |
 |m20|Twitter media crawler|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
 |m21|Fusion|Text/Audio/Video|n/a|[github]|[Dockerhub] |
-|m22|Social Network Analysis|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub] |
+|m22|Social Network Analysis|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub](https://hub.docker.com/r/mixedemotions/scaner/) |
 |m25|Social semantic Knowledge graph|graph|n/a|[github]|[Dockerhub] |
 |m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
 |m32|Youtube crawler|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
@@ -55,11 +56,26 @@ The list of modules can be found in these tables below, with links pointing to r
 |m28|Age estimation from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m28.-Age-estimation-from-audio-by-Phonexia)|
 |m29|Gender identification from audio|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m29.-Gender-identification-from-audio-by-Phonexia)|
 
+### Custom Module
+You can use your REST service or your own Docker module within the platform. For how to use a Docker module within the platform check the [wiki](https://github.com/MixedEmotions/MixedEmotions/wiki/Using-your-own-Docker-Module)
+
 ### Orchestrator
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox. You can find it [here](https://github.com/MixedEmotions/orchestrator).
 
 ## Partners
+
+| Partner | Country|
+|---|---|
+|NATIONAL UNIVERSITY OF IRELAND, GALWAY| Ireland |
+|UNIVERSIDAD POLITECNICA DE MADRID|Spain |
+|UNIVERSITAT PASSAU | Germany |
+|EXPERT SYSTEM S.P.A. | Italy |
+|PARADIGMA DIGITAL SL | Spain |
+| VYSOKE UCENI TECHNICKE V BRNE |Czech Republic|
+| SINDICE LIMITED | Ireland |
+| DEUTSCHE WELLE | Germany |
+| PHONEXIA SRO |Czech Republic|
 
 
 
@@ -69,6 +85,6 @@ This development has been  funded by the European Union through the MixedEmotion
 
 ![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png) 
 
-![EU](img/eu-flag.jpg)
+![EU](img/H2020-Web.png)
 
  http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/index.html
