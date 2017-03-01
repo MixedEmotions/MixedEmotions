@@ -51,7 +51,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m15|Entity Linking ![Entity Extraction Linking](img/EntityExtractionLinking.png)|Text|IT, EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m15.-External-Italian-and-English-Entity-Linking-by-ExpertSystem)|
 |m17|Speech to text ![Speech To Text](img/Speech2Text.png)|Audio|EN|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m17.-Speech-to-text-by-Phonexia)|
 |m18|Machine translation ![Machine Translations](img/MachineTranslation.png)|Text|CS, ES, DE, IT|NUIG|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m18.-Machine-translation-by-NUIG)|
-|m23|Emotion recognition ![Emotion recognition from Audio](img/EmotionRecognitionAudio.png)|Audio|DE, EN, CS|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m23.-Audio-Emotion-extraction-by-Phonexia)|
+|m23|Emotion recognition from Audio ![Emotion recognition from Audio](img/EmotionRecognitionAudio.png)|Audio|DE, EN, CS|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m23.-Audio-Emotion-extraction-by-Phonexia)|
 |m24|Recommendation engine|Text|EN|ExpertSystem|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m24.-Recommendation-engine-by-ExpertSystem)|
 |m28|Age estimation from audio ![Age Estimation](img/AgeEstimation.png)|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m28.-Age-estimation-from-audio-by-Phonexia)|
 |m29|Gender identification from audio ![Gender Identification](img/GenderIdentification.png)|Audio|n/a|Phonexia|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m29.-Gender-identification-from-audio-by-Phonexia)|
