@@ -63,6 +63,10 @@ You can use your REST service or your own Docker module within the platform. For
 
 Additionally an open source orchestrator has been developed as an starting point on using the MixedEmotions Toolbox. You can find it [here](https://github.com/MixedEmotions/orchestrator).
 
+## More information
+
+More information about the platform can be found on this project's [wiki page](https://github.com/MixedEmotions/MixedEmotions/wiki).
+
 ## Partners
 
 | Partner | Country|
