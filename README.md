@@ -20,7 +20,7 @@ The list of modules can be found in these tables below, with links pointing to r
 
 |Id|Functionality|Modality|Language|Source|Download|
 |---|---|---|---|---|---|
-|m1|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN|[github]| [Dockerhub]|
+|m1|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)| [Dockerhub](https://hub.docker.com/r/mixedemotions/01_sentiment_analysis_nuig/)|
 |m2|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN, CS|[github](https://github.com/MixedEmotions/but_sentiment)|[Dockerhub]|
 |m4|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m5|Emotion recognition ![Emotion recognition from Text](img/EmotionRecognitionText.png)|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/05_emotion_hashtags_nuig/)
