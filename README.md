@@ -33,7 +33,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m20|Twitter media crawler ![Twitter Crawler](img/TwitterCrawler.png)|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
 |m21|Fusion ![Fusion](img/Fusion.png)|Text/Audio/Video|n/a|[github]|[Dockerhub] |
 |m22|Social Network Analysis ![Social Network Analysis](img/SocialNetworkAnalysis.png)|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub](https://hub.docker.com/r/mixedemotions/scaner/) |
-|m25|Social semantic Knowledge graph ![KnowledgeGraph](img/KnowledgeGraph.png)|graph|n/a|[github]|[Dockerhub] |
+|m25|Social semantic Knowledge graph ![KnowledgeGraph](img/KnowledgeGraph.png)|graph|n/a|[github](https://github.com/MixedEmotions/knowledge-graph)|[Dockerhub](https://hub.docker.com/r/mixedemotions/knowledge-graph-creator/) |
 |m27|Emotion recognition from Video ![Emotion recognition from Video](img/EmotionRecognitionVideo.png) |Video|n/a|BUT|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
 |m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
 |m32|Youtube crawler ![Youtube Crawler](img/YoutubeCrawler.png)|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
