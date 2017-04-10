@@ -27,7 +27,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m6|Emotion recognition ![Emotion recognition from Audio](img/EmotionRecognitionAudio.png)|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)
 |m7|Emotion recognition ![Emotion recognition from Text](img/EmotionRecognitionText.png)|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m8|Entity Extraction ![Entity Extraction](img/EntityExtraction.png)|Text|ES|[github](https://github.com/MixedEmotions/08_entity_extraction_es)|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
-|m10|Entity Extraction and Linking ![Entity Extraction Linking](img/EntityExtractionLinking.png)|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
+|m10|Entity Extraction and Linking ![Entity Extraction Linking](img/EntityExtractionLinking.png)|Text|EN|[github](https://github.com/MixedEmotions/entity-linking)|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
 |m13|Topic Extraction ![Topic Extraction](img/TopicExtraction.png)|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
 |m16|Suggestion mining ![Suggestion Mining](img/SuggestionMining.png)|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)|[Dockerhub](https://hub.docker.com/r/sapnanegi/16_suggestion_mining_nuig/) |
 |m20|Twitter media crawler ![Twitter Crawler](img/TwitterCrawler.png)|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
