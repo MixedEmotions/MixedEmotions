@@ -34,7 +34,7 @@ The list of modules can be found in these tables below, with links pointing to r
 |m21|Fusion ![Fusion](img/Fusion.png)|Text/Audio/Video|n/a|[github]|[Dockerhub] |
 |m22|Social Network Analysis ![Social Network Analysis](img/SocialNetworkAnalysis.png)|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub](https://hub.docker.com/r/mixedemotions/scaner/) |
 |m25|Social semantic Knowledge graph ![KnowledgeGraph](img/KnowledgeGraph.png)|graph|n/a|[github](https://github.com/MixedEmotions/knowledge-graph)|[Dockerhub](https://hub.docker.com/r/mixedemotions/knowledge-graph-creator/) |
-|m27|Emotion recognition from Video ![Emotion recognition from Video](img/EmotionRecognitionVideo.png) |Video|n/a|BUT|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
+|m27|Emotion recognition from Video ![Emotion recognition from Video](img/EmotionRecognitionVideo.png) |Video|n/a|[github](https://github.com/MixedEmotions/EmotionService)|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
 |m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
 |m32|Youtube crawler ![Youtube Crawler](img/YoutubeCrawler.png)|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
 
@@ -87,7 +87,7 @@ More information about the platform can be found on this project's [wiki page](h
 
 This development has been  funded by the European Union through the MixedEmotions Project (project number H2020 655632), as part of the `RIA ICT 15 Big data and Open Data Innovation and take-up` programme.
 
-![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png) 
+![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png)
 
 ![EU](img/H2020-Web.png)
 
