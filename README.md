@@ -20,21 +20,21 @@ The list of modules can be found in these tables below, with links pointing to r
 
 |Id|Functionality|Modality|Language|Source|Download|
 |---|---|---|---|---|---|
-|m1|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN|[github]| [Dockerhub]|
+|m1|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)| [Dockerhub](https://hub.docker.com/r/mixedemotions/01_sentiment_analysis_nuig/)|
 |m2|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN, CS|[github](https://github.com/MixedEmotions/but_sentiment)|[Dockerhub]|
 |m4|Sentiment Extraction ![Sentiment Extraction](img/SentimentExtraction.png)|Text|EN, ES|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m5|Emotion recognition ![Emotion recognition from Text](img/EmotionRecognitionText.png)|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/05_emotion_hashtags_nuig/)
-|m6|Emotion recognition ![Emotion recognition from Audio](img/EmotionRecognitionAudio.png)|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub]
+|m6|Emotion recognition ![Emotion recognition from Audio](img/EmotionRecognitionAudio.png)|Audio|EN|[github](https://github.com/MixedEmotions/up_emotions_audio)|[Dockerhub](https://hub.docker.com/r/mixedemotions/06_audioanalysis_up/)
 |m7|Emotion recognition ![Emotion recognition from Text](img/EmotionRecognitionText.png)|Text|EN, ES, Multiple|[github](https://github.com/MixedEmotions/senpy)|[Dockerhub](https://hub.docker.com/r/mixedemotions/senpy/)|
 |m8|Entity Extraction ![Entity Extraction](img/EntityExtraction.png)|Text|ES|[github](https://github.com/MixedEmotions/08_entity_extraction_es)|[Dockerhub](https://hub.docker.com/r/mixedemotions/08_entity_extraction_pt/) |
-|m10|Entity Extraction and Linking ![Entity Extraction Linking](img/EntityExtractionLinking.png)|Text|EN|[github]|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
+|m10|Entity Extraction and Linking ![Entity Extraction Linking](img/EntityExtractionLinking.png)|Text|EN|[github](https://github.com/MixedEmotions/entity-linking)|[Dockerhub](https://hub.docker.com/r/mixedemotions/10_entity_linking_nuig/) |
 |m13|Topic Extraction ![Topic Extraction](img/TopicExtraction.png)|Text|ES|[github](https://github.com/MixedEmotions/13_topic_extraction)|[Dockerhub](https://hub.docker.com/r/mixedemotions/13_topic_extraction_spanish/) |
 |m16|Suggestion mining ![Suggestion Mining](img/SuggestionMining.png)|Text|EN|[github](https://github.com/MixedEmotions/NUIG-suggestion)|[Dockerhub](https://hub.docker.com/r/sapnanegi/16_suggestion_mining_nuig/) |
 |m20|Twitter media crawler ![Twitter Crawler](img/TwitterCrawler.png)|Text|n/a|[github](https://github.com/MixedEmotions/twitter_crawlers)|n/a |
 |m21|Fusion ![Fusion](img/Fusion.png)|Text/Audio/Video|n/a|[github]|[Dockerhub] |
 |m22|Social Network Analysis ![Social Network Analysis](img/SocialNetworkAnalysis.png)|graph|n/a|[github](https://github.com/MixedEmotions/scaner)|[Dockerhub](https://hub.docker.com/r/mixedemotions/scaner/) |
-|m25|Social semantic Knowledge graph ![KnowledgeGraph](img/KnowledgeGraph.png)|graph|n/a|[github]|[Dockerhub] |
-|m27|Emotion recognition from Video ![Emotion recognition from Video](img/EmotionRecognitionVideo.png) |Video|n/a|BUT|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
+|m25|Social semantic Knowledge graph ![KnowledgeGraph](img/KnowledgeGraph.png)|graph|n/a|[github](https://github.com/MixedEmotions/knowledge-graph)|[Dockerhub](https://hub.docker.com/r/mixedemotions/knowledge-graph-creator/) |
+|m27|Emotion recognition from Video ![Emotion recognition from Video](img/EmotionRecognitionVideo.png) |Video|n/a|[github](https://github.com/MixedEmotions/EmotionService)|[+info](https://github.com/MixedEmotions/MixedEmotions/wiki/m27.-Video-Emotion-recognition-by-BUT)|
 |m28|Analytics module “Kibi”|-|-|[github](https://github.com/MixedEmotions/kibi)|[kibi](https://siren.solutions/kibi/) |
 |m32|Youtube crawler ![Youtube Crawler](img/YoutubeCrawler.png)|Text/Video|n/a|[github](https://github.com/MixedEmotions/youtube_downloader)|n/a|
 
@@ -87,7 +87,7 @@ More information about the platform can be found on this project's [wiki page](h
 
 This development has been  funded by the European Union through the MixedEmotions Project (project number H2020 655632), as part of the `RIA ICT 15 Big data and Open Data Innovation and take-up` programme.
 
-![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png) 
+![MixedEmotions](http://mixedemotions-project.eu/wp-content/uploads/2015/04/ME-Logo-125h.png)
 
 ![EU](img/H2020-Web.png)
 
