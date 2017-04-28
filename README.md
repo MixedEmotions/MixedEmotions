@@ -8,6 +8,10 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 
 info@mixedemotions-project.eu
 
+## Demonstration Site
+
+http://mixedemotions.insight-centre.org/
+
 ## Modules
 
 The MixedEmotions platform has been developed with several modules in it. Those modules provide diverse functionalities. Mainly, the toolbox is focused on extracting emoitions from different modalities: text, audio and video. However it also provides other kind of functionalities such as Social Network analysis, Knowledge graphs, entity linking and many others.
