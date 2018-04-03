@@ -8,6 +8,10 @@ The MixedEmotions platform is a Big Data Toolbox for multilingual and multimodal
 
 info@mixedemotions-project.eu
 
+## Citation
+if you use any of the modules, please cite the following paper:
+http://ieeexplore.ieee.org/abstract/document/8269329/
+
 ## Demonstration Site
 
 http://mixedemotions.insight-centre.org/
